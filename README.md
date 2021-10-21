@@ -1,6 +1,6 @@
 # Riemannian preconditioning for tensor learning
 
-There are two sets of codes: 1) "tensor completion" which include polished codes for tensor completion and 2) "tensor regression" which include polished codes for general tensor regression probelms inluding multilinear multitask learning problems.
+There are two sets of codes: 1) "tensor completion" which includes polished codes for tensor completion and 2) "tensor regression" which includes polished codes for general tensor regression probelms inluding multilinear multitask learning problems.
 
 
 The codes are based on the following works. 
