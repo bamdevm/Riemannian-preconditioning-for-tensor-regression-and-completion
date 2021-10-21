@@ -19,6 +19,6 @@ cd datasets
 addpath(genpath(pwd));
 cd ..;
 
-cd auxiliaryfiles
+cd tests
 addpath(genpath(pwd))
 cd ..;
